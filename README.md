@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mordavid-bloodhound-mcp-ai-badge.png)](https://mseep.ai/app/mordavid-bloodhound-mcp-ai)
+
 # BloodHound-MCP
 
 ![BloodHound-MCP](/images/BloodHound-MCP-Banner.png)
